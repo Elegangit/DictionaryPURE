@@ -1,0 +1,2 @@
+# DictionaryPURE
+dictionaryappbyme
